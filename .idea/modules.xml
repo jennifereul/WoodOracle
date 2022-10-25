@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WoodSeller.iml" filepath="$PROJECT_DIR$/WoodSeller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WoodOracle.iml" filepath="$PROJECT_DIR$/WoodOracle.iml" />
     </modules>
   </component>
 </project>
