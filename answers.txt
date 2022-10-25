@@ -1,7 +1,29 @@
 1 There have been 16 commits
-2 Never, previously got deleted
-3 
-4
-5
 
+2 N/A, previously got deleted
+
+3 Git status - Found commit ID
+  Git checkout ID
+  ls -al to list all files
+  Git checkout - 
+
+4 N/A
+
+5 N/A
+
+6 git log - shows all of the history of the commits 
+
+git status - shows information about current directory and the staging area. Files that will be apart of the next commit.
+
+7 Git shortlog -  retrieves amount of commits and messages/summary per user 
+
+8 git log --follow main.java
+
+9 git log --no-renames --follow inspiration.txt
+
+10 git log --grep="transaction"
+
+11 git log --author=specific person
+
+12 git log --author=Lauren --since=01/05/2014 --until=06/14/2015
 
